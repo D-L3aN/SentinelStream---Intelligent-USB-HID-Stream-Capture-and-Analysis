@@ -1,0 +1,2 @@
+# SentinelStream---Intelligent-USB-HID-Stream-Capture-and-Analysis
+Captures and decodes USB HID keystroke streams from Ducky, Flipper, and BadUSB devices. Auto-discovers the correct input event device, captures USB descriptors, decodes keystrokes, and analyzes the decoded stream for URLs, commands, and credential-like patterns. Writes structured loot to `/root/loot/sentinelstream/&lt;timestamp>/`.
